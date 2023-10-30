@@ -8,6 +8,7 @@ public class Main {
                 "Octavia",
                 2012,
                 "Sedan",
+                "Gasoline",
                 1800);
         myCar.getInfo();
     }
