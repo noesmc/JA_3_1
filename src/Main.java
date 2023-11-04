@@ -6,6 +6,7 @@ public class Main {
         Car myCar = new Car(
                 "Skoda",
                 "Octavia",
+                "A5 scout",
                 2012,
                 "Universal",
                 "Gasoline",
